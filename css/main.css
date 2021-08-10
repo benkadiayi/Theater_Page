@@ -1,0 +1,19 @@
+footer p{
+    color: white;
+}
+.pic{
+    background-image: url(/images/theater-image-background.png);
+    max-height: 30%;
+}
+.containerpic {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
